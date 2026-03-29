@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarvesh Kumar
 - 👀 I’m interested in artificial intelligence and machine learning.
-- 🌱 I’m currently learning DSA in python
+- 🌱 I’m currently learning Data Science in python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 reach me on janukumarg708@gmail.com
 <!---
